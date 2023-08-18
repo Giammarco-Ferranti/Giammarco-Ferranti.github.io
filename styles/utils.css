@@ -68,8 +68,12 @@
 
 a {
   text-decoration: none;
-  color: var(--clr-light);
+  color: var(--clr-dark);
   cursor: pointer;
+}
+
+.a__button {
+  color: var(--clr-light);
 }
 
 
