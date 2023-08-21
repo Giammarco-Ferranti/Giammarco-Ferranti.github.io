@@ -81,13 +81,15 @@
 /* lg */
 @media (min-width: 1024px) {
  .header__menu {
-  gap: 12em;
+  gap: var(--size-7xl)
  }
 }
 
 /* xl */
 @media (min-width: 1280px) {
-  
+  .header__menu {
+    gap: var(--size-10xl)
+   }
 }
 
 /* 2xl */
