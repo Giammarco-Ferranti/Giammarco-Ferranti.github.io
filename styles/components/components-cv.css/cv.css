@@ -28,7 +28,7 @@ h5 {
 }
 
 .cv__img {
-  max-width: var(--size-8xl);
+  max-width: var(--size-10xl);
   height: auto;
 }
 

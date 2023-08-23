@@ -81,14 +81,27 @@
 /* lg */
 @media (min-width: 1024px) {
  .header__menu {
-  gap: var(--size-7xl)
+  gap: var(--size-7xl);
  }
+ .header__menu {
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
+ }
+
+ .header__svg {
+  width: var(--size-3xl);
+  height: var(--size-3xl);
+ }
+  .img__menu {
+  width: var(--size-3xl);
+  height: var(--size-3xl);
+  }
 }
 
 /* xl */
 @media (min-width: 1280px) {
   .header__menu {
-    gap: var(--size-10xl)
+    gap: 11rem;
    }
 }
 

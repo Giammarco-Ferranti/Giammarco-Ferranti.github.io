@@ -25,12 +25,13 @@ textarea {
 }
 
 .textarea {
-  height: 100px;
+  height: 100px; 
   width: 300px;
   padding-top: 10px;
 }
 
-.btn {
+
+.button__form {
   margin-top: 1rem;
 }
 
